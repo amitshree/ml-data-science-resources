@@ -1,6 +1,6 @@
 # Machine Learning and Data Science resources 
 ## Math, Machine Learning and Data Science tutorials 
-#Tutorial | #Paid/Free | #Link | #Language
+#Tutorial | #Paid/Free | #Author | #Language
   --- | --- | --- | --- 
 [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning) | Paid but Free for auditing | David Dye,Samuel J. Cooper,A. Freddie Page,Marc Peter Deisenroth | Mathematics
 [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) | Paid | Jose Portilla | Python

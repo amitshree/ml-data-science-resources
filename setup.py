@@ -10,7 +10,7 @@ def csv_to_markdown():
     tutorial_heading = "## Math, Machine Learning and Data Science tutorials \n"
     file.write(tutorial_heading)
 
-    course_heading = "#Tutorial | #Paid/Free | #Link | #Language"
+    course_heading = "#Tutorial | #Paid/Free | #Author | #Language"
     course_heading += "\n  --- | --- | --- | --- \n"
     file.write(course_heading)
         
