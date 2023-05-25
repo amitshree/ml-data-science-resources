@@ -12,7 +12,7 @@ def csv_to_markdown():
     basics_heading = "## Basics of AI, Machine Learning and Data Science \n"
     file.write(basics_heading)
 
-    course_heading = "#Tutorial | #Paid/Free | #Author | #Language"
+    course_heading = "Tutorial | Paid/Free | Author | Language"
     course_heading += "\n  --- | --- | --- | --- \n"
     file.write(course_heading)
         
@@ -25,7 +25,7 @@ def csv_to_markdown():
     tutorial_heading = "## Math, Machine Learning and Data Science tutorials \n"
     file.write(tutorial_heading)
 
-    course_heading = "#Tutorial | #Paid/Free | #Author | #Language"
+    course_heading = "Tutorial | Paid/Free | Author | Language"
     course_heading += "\n  --- | --- | --- | --- \n"
     file.write(course_heading)
         
@@ -36,7 +36,7 @@ def csv_to_markdown():
     file.write(learn)
 
     interviews_heading = "## Interview questions \n"
-    interviews_heading += "#Resource | #Type"
+    interviews_heading += "Resource | Type"
     interviews_heading += "\n  --- | --- \n"
     file.write(interviews_heading)
 
