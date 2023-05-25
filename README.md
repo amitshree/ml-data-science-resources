@@ -1,4 +1,8 @@
 # Machine Learning and Data Science resources 
+## Basics of AI, Machine Learning and Data Science 
+#Tutorial | #Paid/Free | #Author | #Language
+  --- | --- | --- | --- 
+[AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) | Paid but Free for auditing | Andrew Ng | Any
 ## Math, Machine Learning and Data Science tutorials 
 #Tutorial | #Paid/Free | #Author | #Language
   --- | --- | --- | --- 
