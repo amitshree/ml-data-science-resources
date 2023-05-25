@@ -22,6 +22,19 @@ def csv_to_markdown():
         basic += "[" + row['Title'] + "](" + row['Link'] + ") | " + row['Paid'] + " | " + row['Authors'] + " | " + row['Language'] + "\n"
     file.write(basic)
 
+    # Programming Section
+    file.write("## Learn Programming required for Machine Learning and Data Science \n")
+
+    programming_heading = "Tutorial | Paid/Free | Author | Language"
+    programming_heading += "\n  --- | --- | --- | --- \n"
+    file.write(programming_heading)
+        
+    programming_resouces = data [(data ["Category"] == "Programming")]
+    program = ""
+    for index, row in programming_resouces.iterrows():
+        program += "[" + row['Title'] + "](" + row['Link'] + ") | " + row['Paid'] + " | " + row['Authors'] + " | " + row['Language'] + "\n"
+    file.write(program)
+
     tutorial_heading = "## Math, Machine Learning and Data Science tutorials \n"
     file.write(tutorial_heading)
 

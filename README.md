@@ -3,6 +3,10 @@
 Tutorial | Paid/Free | Author | Language
   --- | --- | --- | --- 
 [AI For Everyone](https://www.coursera.org/learn/ai-for-everyone) | Paid but Free for auditing | Andrew Ng | Any
+## Learn Programming required for Machine Learning and Data Science 
+Tutorial | Paid/Free | Author | Language
+  --- | --- | --- | --- 
+[The Complete Python Bootcamp From Zero to Hero in Python](https://www.udemy.com/course/complete-python-bootcamp/) | Paid | Jose Portilla | Python
 ## Math, Machine Learning and Data Science tutorials 
 Tutorial | Paid/Free | Author | Language
   --- | --- | --- | --- 
