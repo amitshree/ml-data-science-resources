@@ -35,7 +35,7 @@ def csv_to_markdown():
         learn += "[" + row['Title'] + "](" + row['Link'] + ") | " + row['Paid'] + " | " + row['Authors'] + " | " + row['Language'] + "\n"
     file.write(learn)
 
-    interviews_heading = "## Interview questions \n"
+    interviews_heading = "## Interview questions for Machine Learning and Data Science \n"
     interviews_heading += "Resource | Type"
     interviews_heading += "\n  --- | --- \n"
     file.write(interviews_heading)

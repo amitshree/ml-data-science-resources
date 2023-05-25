@@ -10,7 +10,7 @@ Tutorial | Paid/Free | Author | Language
 [Python for Machine Learning & Data Science Masterclass](https://www.udemy.com/course/python-for-machine-learning-data-science-masterclass/) | Paid | Jose Portilla | Python
 [Machine Learning Specialization](https://www.coursera.org/specializations/machine-learning-introduction) | Paid but Free for auditing | Andrew Ng, Eddy Shyu, Aarti Bagul, Geoff Ladwig | Python
 [Machine Learning A-Z™](https://www.udemy.com/course/machinelearning/) | Paid | Kirill Eremenko, Hadelin de Ponteves | Python, R
-## Interview questions 
+## Interview questions for Machine Learning and Data Science 
 Resource | Type
   --- | --- 
 [Top 90+ Data Science Interview Questions and Answers 2023](https://www.simplilearn.com/tutorials/data-science-tutorial/data-science-interview-questions) | Video
